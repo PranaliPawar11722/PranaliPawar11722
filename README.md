@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an Aspiring Data Analyst/Data Scientist,passionate about turning data into meaningful insights and actionable solutions. Here’s a little about me:
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on personal projects: EDA, Machine learning,data visualization.
+- 🔭 I’m currently working on personal projects: EDA,data visualization.
 - 👯 I’m looking to collaborate on open-source data science projects or internships.
 - 💬 Ask me about: Python, data analysis, or any data-related problem!
 - 📫 How to reach me: prpawar023@gmail.com
