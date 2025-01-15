@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an Aspiring Data Analyst/Data Scientist,passio
 - ⚡ Fun fact: I’m fascinated by how data can tell stories that drive impactful decisions.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python,Sql,Machine Learning,Probability and statistics.
+- **Languages:** Python,Sql,Probability and statistics.
 - **Data Visualization:** Matplotlib, Seaborn, Power BI
 - **Tools:** Jupyter Notebook, Google Colab, Git, Power BI, Mysql
 
