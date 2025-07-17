@@ -30,9 +30,7 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/pranalipawaroffical)
-
-
-- [Personal Website or Blog] (file:///C:/Users/prpaw/Downloads/Portfolio-Website-Template-main%20(2)/Portfolio-Website-Template-main/index.html)
+[![Personal Website or Blog](https://img.shields.io/badge/Portfolio-Click_Here-orange?style=for-the-badge&logo=Firefox&logoColor=white)] (file:///C:/Users/prpaw/Downloads/Portfolio-Website-Template-main%20(2)/Portfolio-Website-Template-main/index.html)
 
 Thanks for stopping by! 😊 Let’s build something amazing together!
 
