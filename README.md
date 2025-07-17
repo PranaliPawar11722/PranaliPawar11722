@@ -21,14 +21,17 @@ You bring the snacks, I’ll bring the code 🍪💻
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Statistics](https://img.shields.io/badge/Statistics-1E90FF?style=for-the-badge)
 ![Probability](https://img.shields.io/badge/Probability-FF69B4?style=for-the-badge)
 ![WebScraping](https://img.shields.io/badge/Scrapy-000000?style=for-the-badge&logo=python&logoColor=white)
 
 
-### 📫 Connect with Me
-- [LinkedIn] (www.linkedin.com/in/pranali-pawar-0110pxcrt11722)
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/pranalipawaroffical)
+
+
 - [Personal Website or Blog] (file:///C:/Users/prpaw/Downloads/Portfolio-Website-Template-main%20(2)/Portfolio-Website-Template-main/index.html)
 
 Thanks for stopping by! 😊 Let’s build something amazing together!
