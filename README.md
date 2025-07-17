@@ -29,7 +29,8 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 
 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/pranalipawaroffical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pranalipawarofficial/)
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-orange?style=for-the-badge&logo=Firefox&logoColor=white)](https://PranaliPawar11722.github.io/pranali_pawar_portfolio/)
 
